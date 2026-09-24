@@ -38,16 +38,13 @@ For minikube, use kubectl instead of oc.
 
 ## Exercises
 
-01 ImagePullBackOff
-02 CrashLoopBackOff
-03 Service selector mismatch
-04 Wrong Service targetPort
-05 Missing ConfigMap
-06 Missing Secret
-07 Readiness probe failure
-08 PVC Pending
-09 RBAC / Forbidden
-10 Unschedulable due to resource requests
-
-See `instructor/INSTRUCTOR-ANSWERS.md` for the solutions.
-
+    01 ImagePullBackOff
+    02 CrashLoopBackOff
+    03 Service selector mismatch
+    04 Wrong Service targetPort
+    05 Missing ConfigMap
+    06 Missing Secret
+    07 Readiness probe failure
+    08 PVC Pending
+    09 RBAC / Forbidden
+    10 Unschedulable due to resource requests
