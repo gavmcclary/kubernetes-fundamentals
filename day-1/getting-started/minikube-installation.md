@@ -43,5 +43,4 @@ default           Active   50s
 kube-node-lease   Active   50s
 kube-public       Active   50s
 kube-system       Active   50s
-<img width="483" height="400" alt="image" src="https://github.com/user-attachments/assets/af2e1ddf-3dc3-4073-ae06-b7e378f99886" />
 ```
