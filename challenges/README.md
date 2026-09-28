@@ -45,4 +45,4 @@ For minikube, use kubectl instead of oc.
     05 Missing Secret
     06 PVC Pending
     07 RBAC / Forbidden
-    8 Unschedulable due to resource requests
+    08 Unschedulable due to resource requests
