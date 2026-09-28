@@ -7,7 +7,7 @@ spec:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 50Gi
+      storage: 1Gi
   storageClassName: class-that-does-not-exist
 ---
 apiVersion: apps/v1
