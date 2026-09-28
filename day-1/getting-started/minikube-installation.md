@@ -44,3 +44,9 @@ kube-node-lease   Active   50s
 kube-public       Active   50s
 kube-system       Active   50s
 ```
+
+To stop Minikube:
+
+```
+minikube stop
+```
