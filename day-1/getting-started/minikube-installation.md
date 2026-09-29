@@ -32,7 +32,7 @@ minikube start --driver=podman
 minikube config set driver podman
 ```
 
-Test Minikube is running:
+**Test Minikube is running:**
 
 ```
 username@XXXXXXXXX ~ % oc project 
