@@ -11,6 +11,7 @@ Without opening every file manually, answer the following:
  - What application is being run?
  - What port is the application configured to use?
  - What environment is the application running in?
+ - What is the application version?
  - How many ERROR entries are in the application log?
  - What were the errors?
  - Find the backup log.
