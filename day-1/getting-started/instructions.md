@@ -1,10 +1,16 @@
 Instructions
 =============
 
+Create namespace: **troubleshooting**
+
+```
+oc project troubleshooting
+```
+
 Apply the manifest **basic-pod.yaml**
 
 ```
-oc apply -f basic-pod.yaml
+oc apply -f basic-pod.yaml -n troubleshooting
 ```
 
 Check pod is running:
