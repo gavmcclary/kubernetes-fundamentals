@@ -57,6 +57,8 @@ Append
 ls -l >> output.txt
 ```
 
+Combine with pipe
+
 ```
 cat output.txt | grep yaml
 ```
