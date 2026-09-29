@@ -7,7 +7,6 @@ Without opening every file manually, answer the following:
 
  - What directory are you currently in?
  - What files and directories are present?
- - Are there any hidden files?
  - Find all YAML files.
  - What application is being run?
  - What port is the application configured to use?
