@@ -1,0 +1,18 @@
+2026-09-29 09:01:02 INFO Application starting
+2026-09-29 09:01:03 INFO Loading configuration
+2026-09-29 09:01:04 INFO Connecting to database
+2026-09-29 09:01:05 INFO Database connection established
+2026-09-29 09:01:08 INFO Listening on port 8080
+2026-09-29 09:02:15 INFO Request received: GET /api/users
+2026-09-29 09:02:15 INFO Request completed: 200
+2026-09-29 09:03:41 INFO Request received: GET /api/orders
+2026-09-29 09:03:41 ERROR Database query failed
+2026-09-29 09:03:42 WARN Retrying database query
+2026-09-29 09:03:43 INFO Database query succeeded
+2026-09-29 09:05:12 INFO Request received: GET /health
+2026-09-29 09:05:12 INFO Request completed: 200
+2026-09-29 09:06:27 ERROR Unable to connect to external service
+2026-09-29 09:06:28 WARN Retrying connection
+2026-09-29 09:06:30 INFO External service connection restored
+2026-09-29 09:08:14 INFO Request received: POST /api/orders
+2026-09-29 09:08:15 INFO Request completed: 201
