@@ -6,7 +6,6 @@ Create namespace: **troubleshooting**
 ```
 oc project troubleshooting
 ```
-
 Apply the manifest **basic-pod.yaml**
 
 ```
