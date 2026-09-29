@@ -1,10 +1,11 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nginx
+  name: basic-pod
 spec:
   containers:
-    - name: nginx
-      image: nginx:1.14.2
-      ports:
-        - containerPort: 80
+    - name: basic-container
+      image: busybox:1.36
+      command: ["/bin/sh", "-c"]
+      args:
+        - echo "Application starting";
