@@ -19,7 +19,8 @@ Check pod is running:
 oc get pods
 ```
 
-Why isn't the Pod showing as Running?
+
+***Why isn't the Pod showing as Running?***
 
 **Useful commands**
 
