@@ -57,3 +57,6 @@ Append
 ls -l >> output.txt
 ```
 
+```
+cat output.txt | grep yaml
+```
