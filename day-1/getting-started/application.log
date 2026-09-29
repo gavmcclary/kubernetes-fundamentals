@@ -1,0 +1,3 @@
+{"timestamp":"2026-09-29T10:15:32Z","level":"INFO","service":"payment-api","pod":"payment-api-7f8d9c6b4d-abc12","namespace":"prod","message":"Payment request received","requestId":"b7f3a2d1-4c2e-4a1f-9f3a-8b2c1d4e5f6a"}
+{"timestamp":"2026-09-29T10:15:33Z","level":"ERROR","service":"payment-api","pod":"payment-api-7f8d9c6b4d-abc12","namespace":"prod","message":"Database connection timeout","requestId":"b7f3a2d1-4c2e-4a1f-9f3a-8b2c1d4e5f6a","errorCode":"DB_TIMEOUT"}
+{"timestamp":"2026-09-29T10:15:34Z","level":"DEBUG","service":"payment-api","pod":"payment-api-7f8d9c6b4d-abc12","namespace":"prod","message":"Retrying payment request","requestId":"b7f3a2d1-4c2e-4a1f-9f3a-8b2c1d4e5f6a"}
