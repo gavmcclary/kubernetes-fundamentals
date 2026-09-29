@@ -20,3 +20,11 @@ oc get pods
 ```
 
 Why isn't the Pod showing as Running?
+
+**Useful commands**
+
+```
+oc get pod basic-pod
+oc describe pod basic-pod
+oc  logs basic-pod
+```
