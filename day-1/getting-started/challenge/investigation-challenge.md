@@ -5,7 +5,6 @@ You have been asked to investigate an application running on a Linux server.
 
 Without opening every file manually, answer the following:
 
- - What directory are you currently in?
  - What files and directories are present?
  - Find all YAML files.
  - What application is being run?
