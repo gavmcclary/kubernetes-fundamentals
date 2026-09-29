@@ -5,7 +5,7 @@ Minikube Installation
 
 It is assumed learner has the *oc* command line installed already
 
-*Podman*
+**Podman**
 
 ```
 brew install podman
