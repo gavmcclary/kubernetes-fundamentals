@@ -3,9 +3,7 @@ Useful Commands
 
 **Searching**
 
-```
-grep
-```
+***grep***
 
 Search for the word **ERROR** in a log file
 ```
