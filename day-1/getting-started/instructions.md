@@ -26,5 +26,5 @@ Why isn't the Pod showing as Running?
 ```
 oc get pod basic-pod
 oc describe pod basic-pod
-oc  logs basic-pod
+oc logs basic-pod
 ```
