@@ -1,0 +1,17 @@
+application:
+  name: training-application
+  environment: development
+  port: 8080
+
+database:
+  host: database.training.local
+  port: 5432
+  name: trainingdb
+
+logging:
+  level: INFO
+  format: json
+
+features:
+  enableMetrics: true
+  enableDebug: false
