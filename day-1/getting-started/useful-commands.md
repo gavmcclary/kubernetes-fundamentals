@@ -29,3 +29,31 @@ Find any files with **.log** extension
 ```
 find . -name "*.log"
 ```
+
+**Combining commands**
+
+Command:
+```
+|
+```
+
+List all files and pipe to grep to search for **yaml***
+
+```
+ls -la | grep yaml
+```
+
+**Redirection**
+
+Output to a file 
+
+```
+ls -l > output.txt
+```
+
+Append
+
+```
+ls -l >> output.txt
+```
+
