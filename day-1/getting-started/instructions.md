@@ -19,7 +19,7 @@ oc get pods
 ```
 
 
-***Why isn't the Pod showing as Running?***
+***CHALLENGE: Why isn't the Pod showing as Running?***
 
 **Useful commands**
 
