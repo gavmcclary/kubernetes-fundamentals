@@ -38,11 +38,11 @@ For minikube, use kubectl instead of oc.
 
 ## Exercises
 
-    01 ImagePullBackOff
-    02 CrashLoopBackOff
-    03 Service selector mismatch
-    04 Missing ConfigMap
-    05 Missing Secret
-    06 PVC Pending
-    07 RBAC / Forbidden
-    08 Unschedulable due to resource requests
+    01 ?
+    02 ?
+    03 ?
+    04 ?
+    05 ?
+    06 ?
+    07 ?
+    08 ?
