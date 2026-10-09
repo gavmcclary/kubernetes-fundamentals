@@ -1,6 +1,6 @@
 # Kubernetes / OpenShift Troubleshooting Lab
 
-This lab contains 10 deliberately broken manifests for troubleshooting practice.
+This lab contains 8 deliberately broken manifests for troubleshooting practice.
 
 ## Learner setup
 
