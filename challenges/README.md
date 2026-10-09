@@ -16,11 +16,8 @@ Apply one exercise at a time:
 
     oc apply -f 01.yaml -n troubleshooting
 
-or:
 
-    oc apply -f 01.yaml -n troubleshooting
-
-Then investigate without looking at the instructor answers.
+Then investigate!
 
 ## Useful commands
 
