@@ -6,7 +6,7 @@ This lab contains 10 deliberately broken manifests for troubleshooting practice.
 
 Create a namespace/project:
 
-    kubectl create namespace troubleshooting
+    oc create namespace troubleshooting
 
 or OpenShift:
 
@@ -14,11 +14,11 @@ or OpenShift:
 
 Apply one exercise at a time:
 
-    kubectl apply -f 01-imagepull.yaml -n troubleshooting
+    kubectl apply -f 01.yaml -n troubleshooting
 
 or:
 
-    oc apply -f 01-imagepull.yaml -n troubleshooting
+    oc apply -f 01.yaml -n troubleshooting
 
 Then investigate without looking at the instructor answers.
 
