@@ -14,7 +14,7 @@ or OpenShift:
 
 Apply one exercise at a time:
 
-    kubectl apply -f 01.yaml -n troubleshooting
+    oc apply -f 01.yaml -n troubleshooting
 
 or:
 
