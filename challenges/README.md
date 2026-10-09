@@ -31,7 +31,6 @@ Then investigate!
     oc get pvc
     oc get storageclass
 
-For minikube, use kubectl instead of oc.
 
 ## Exercises
 
