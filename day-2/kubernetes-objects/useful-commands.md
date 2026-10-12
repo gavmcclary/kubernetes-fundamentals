@@ -23,14 +23,12 @@ oc logs counter
 
 **View specific container logs:**
 
-Command:
 ```
 oc logs counter -c countby3
 ```
 
-**View all containers: **
+**View all containers:**
 
-Command:
 ```
 oc logs counter --all-containers
 ```
