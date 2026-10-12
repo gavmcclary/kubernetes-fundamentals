@@ -15,6 +15,7 @@ minikube start
 ```
 
 Apply the manifest: **counter.yaml**
+
 What is the problem with using the command **oc logs counter**?
 ```
 oc logs counter
