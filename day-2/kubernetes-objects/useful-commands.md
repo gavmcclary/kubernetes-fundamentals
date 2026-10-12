@@ -10,8 +10,9 @@ We can view container logs with the following command:
 oc logs <pod-name>
 ```
 **First check you have minikube running**
+```
 minikube start
-
+```
 **Apply the manifest: **counter.yaml**
 What is the problem with using the command **oc logs counter**?
 ```
