@@ -6,7 +6,6 @@ Useful Commands
 
 We can view container logs with the following command:
 
-Command:
 ```
 oc logs <pod-name>
 ```
