@@ -4,7 +4,7 @@ Useful Commands
 
 **Logs**
 
-We can view containers logs with the following command:
+We can view container logs with the following command:
 
 Command:
 ```
