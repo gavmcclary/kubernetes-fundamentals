@@ -58,3 +58,18 @@ ls
 bin  boot  dev	etc  home  lib	media  mnt  opt  proc  root  run  sbin	srv  sys  tmp  treats  usr  var
 ```
 
+**Move into the *treats* directory**
+```
+cd treats
+```
+
+**And view the contents of file *treats.txt***
+```
+cat treats.txt
+```
+```
+Cookie
+Muffin
+Brownie
+Blondie
+```
