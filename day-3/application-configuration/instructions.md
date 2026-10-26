@@ -6,3 +6,7 @@ Instructions
 oc create configmap treats --from-file=treats.txt
 ```
 
+**View all ConfigMaps**
+```
+oc get configmaps
+```
