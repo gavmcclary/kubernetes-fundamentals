@@ -53,7 +53,7 @@ oc apply -f <pod-manifest-yaml-file>
 oc exec -it nginx -- sh
 ```
 
-***Check contents of Pod**
+**Check contents of Pod**
 ```
 ls
 ```
