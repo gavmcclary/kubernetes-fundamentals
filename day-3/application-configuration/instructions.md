@@ -74,4 +74,4 @@ Brownie
 Blondie
 ```
 
-**Challenge: What happens if you delete the Pod?**
+**Challenge: What happens if you delete the Pod and re apply the manifest?**
