@@ -10,3 +10,8 @@ my-secret.yaml
 ```
 oc get secrets
 ```
+
+**Describe the secret**
+```
+oc describe secret my-secret
+```
