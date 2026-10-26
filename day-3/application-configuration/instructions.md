@@ -1,7 +1,10 @@
 Instructions
 ============
 
-**Download the file - treats.txt**
+**Download the file:
+```
+treats.txt**
+```
 
 **Create ConfigMap from the treats.txt file**
 ```
