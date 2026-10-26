@@ -1,7 +1,9 @@
 Instructions
 ============
 
-**Create ConfigMap from txt file**
+**Download the file - treats.txt**
+
+**Create ConfigMap from the treats.txt file**
 ```
 oc create configmap treats --from-file=treats.txt
 ```
