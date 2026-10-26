@@ -73,3 +73,5 @@ Muffin
 Brownie
 Blondie
 ```
+
+**Challenge: What happens if you delete the Pod?**
