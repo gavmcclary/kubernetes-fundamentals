@@ -21,7 +21,7 @@ oc describe secret my-secret
 apiVersion: v1
 kind: Pod
 metadata:
-    name: mysql-lockerd
+    name: mysql-locked
 spec:
   containers:
   - image: mysql:8-debian
