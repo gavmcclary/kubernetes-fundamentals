@@ -24,7 +24,7 @@ metadata:
     name: mysql-locked
 spec:
   containers:
-  - image: mysql:8-debian
+  - image: mysql:8.0
     name: mysql
     env:
       - name: MYSQL_ROOT_PASSWORD
