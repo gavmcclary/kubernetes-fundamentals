@@ -1,7 +1,7 @@
 Instructions
 ============
 
-**Create a new secret from the file:
+Create a new secret from the manifest:
 ```
 my-secret.yaml
 ```
