@@ -43,3 +43,18 @@ spec:
 oc apply -f <pod-manifest-yaml-file>
 ```
 
+**Once Pod has started, exec into it**
+```
+oc exec -it nginx -- sh
+```
+
+***Check contents of Pod**
+```
+ls
+```
+
+**You should see the *treats* file listed**
+```
+bin  boot  dev	etc  home  lib	media  mnt  opt  proc  root  run  sbin	srv  sys  tmp  treats  usr  var
+```
+
