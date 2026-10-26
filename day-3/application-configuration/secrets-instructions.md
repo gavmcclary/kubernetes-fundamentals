@@ -33,3 +33,15 @@ spec:
             name: my-secret
             key: password
 ```
+
+**Wait for Pod to spin up**
+
+**Then exec into it**
+```
+oc exec -it mysql-locked -- bash
+```
+
+**See if you can view the password**
+```
+echo $MYSQL_ROOT_PASSWORD
+```
