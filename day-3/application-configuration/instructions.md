@@ -53,7 +53,7 @@ oc exec -it nginx -- sh
 ls
 ```
 
-**You should see the *treats* file listed**
+**You should see the *treats* directory listed**
 ```
 bin  boot  dev	etc  home  lib	media  mnt  opt  proc  root  run  sbin	srv  sys  tmp  treats  usr  var
 ```
