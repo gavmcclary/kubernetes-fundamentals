@@ -19,7 +19,7 @@ Each session includes some practical tasks/practice with OpenShift commands and/
 
 Session 5 consists of a series of challenges to check understanding of everything covered by first 4 sessions
 
-Each Session/Day has a folder and in that folder files are numbered e.g.
+Each Session/Day has a corresponding folder in the repo and in that folder files are numbered e.g.
 
 **1. minikube-installation.md**
 **2. useful-unix-xommands.md**
