@@ -9,7 +9,7 @@
 | **4** | Running applications        | Deployments, Storage, StatefulSets                             | Convert a Pod into a Deployment and add persistent storage |
 | **5** | Troubleshooting & challenge | Review + Challenges                                            | Diagnose deliberately broken workloads                     |
 
-**Format**
+**About the sessions**
 
 Each session is expected to last 1-2hrs 
 
