@@ -31,5 +31,3 @@ Each Session/Day has a corresponding folder in the repo and in that folder files
 
 Start at file number 1 and go from there 
 
-Learners do not have to clone the repo, they can just copy and paste contents of files if they want
-
