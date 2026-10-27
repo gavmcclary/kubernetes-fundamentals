@@ -22,11 +22,11 @@ Session 5 consists of a series of challenges to check understanding of everythin
 Each Session/Day has a corresponding folder in the repo and in that folder files are numbered e.g.
 
 ```
-**1. minikube-installation.md**
+1. minikube-installation.md
 
-**2. useful-unix-commands.md**
+2. useful-unix-commands.md
 
-**3. instructions.md**
+3. instructions.md
 ```
 
 Start at file number 1 and go from there 
