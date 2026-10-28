@@ -31,3 +31,5 @@ Each Session/Day has a corresponding folder in the repo and in that folder files
 
 Start at file number 1 and go from there 
 
+## Challenges
+Solutions and guidance for challenges can be found in a **private** repo here: https://github.com/gavmcclary/kubernetes-fundamentals-instructor-only
