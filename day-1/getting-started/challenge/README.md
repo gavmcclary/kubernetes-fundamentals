@@ -7,7 +7,7 @@ What to do first:
 
 Open file **1. minikube-installation.md** and follow the instructions to install Minikube. 
 
-This will allow us to run Kubernetes Cluster on our own computer.
+This will allow us to run a Kubernetes Cluster on our own computer.
 
 Once you have successfully installed Minikube open file: **2. useful-unix-commands.md** where we will try out some basic, useful Unix/Linux commands.
 
