@@ -19,7 +19,7 @@ When you're ready try the challenges in file:
 
 **3.linux-investigation-challenge.md** 
 
-Finally, try the creating your first Namespace and Pod in:
+Finally, try creating your first *Namespace* and *Pod* in:
 
 **4. namespace-challenge-instructions.md**
 
