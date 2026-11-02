@@ -5,7 +5,9 @@ Welcome to Day 1 of **Kubernetes Fundamentals!**
 
 What to do first:
 
-Open file **1. minikube-installation.md** and follow the instructions to install Minikube. 
+Open file:
+
+**1. minikube-installation.md** and follow the instructions to install Minikube. 
 
 This will allow us to run a Kubernetes Cluster on our own computer.
 
