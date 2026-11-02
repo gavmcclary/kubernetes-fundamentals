@@ -1,7 +1,7 @@
 Instructions
 ============
 
-Welsome to Day 1!
+Welcome to Day 1 of **Kubernetes Fundamentals!**
 
 What to do first:
 
