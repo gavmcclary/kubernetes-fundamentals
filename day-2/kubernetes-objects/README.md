@@ -7,5 +7,7 @@ We will use Logs to check what is happening inside of a Pod and what happens whe
 
 Open file: 
 
-**1.container-logs.md** and work through the examples.
+**1.container-logs.md** 
+
+and work through the examples.
 
