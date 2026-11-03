@@ -4,6 +4,11 @@ This lab contains 8 deliberately broken manifests for troubleshooting practice.
 
 ## Learner setup
 
+**Make sure you have started Minikube**
+```
+minikube start
+```
+
 Create a namespace/project:
 
     oc create namespace troubleshooting
