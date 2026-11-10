@@ -8,4 +8,4 @@ spec:
       image: busybox:1.361
       command: ["/bin/sh", "-c"]
       args:
-        - echo "Application starting";
+        - echo "Application starting"; exit
